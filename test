@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>HELLO WORLD</title>
+</head>
+<body>
+<h1>Hell World!</h1>
+<img src="hello.jpg" alt="Планета Земля">
+</body>
+</html>
